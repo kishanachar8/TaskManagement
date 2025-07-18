@@ -111,7 +111,7 @@ node server.js
 
 Import the following collection into Postman to test all endpoints:
 
-📁 [`task-api.postman_collection.json`](./postman/task-api.postman_collection.json)
+📁 [`task-api.postman_collection.json`](https://api.postman.com/collections/23889132-5c9f256c-0973-4838-adea-bf5d17ffb455?access_key=PMAT-01K0DPMXP73MHVDMZEWR4H36RF)
 
 ---
 
